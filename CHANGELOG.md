@@ -3,6 +3,88 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## 2024.07.25
+
+
+### Changed
+
+- Upgrade to Django 5.0 ([#5199](https://github.com/cookiecutter/cookiecutter-django/pull/5199))
+
+### Updated
+
+- Update pytest to 8.3.2 ([#5249](https://github.com/cookiecutter/cookiecutter-django/pull/5249))
+
+- Update sentry-sdk to 2.11.0 ([#5247](https://github.com/cookiecutter/cookiecutter-django/pull/5247))
+
+## 2024.07.24
+
+
+### Changed
+
+- fix non existent of two scoops of django image ([#5248](https://github.com/cookiecutter/cookiecutter-django/pull/5248))
+
+## 2024.07.23
+
+
+### Changed
+
+- Ensure that awscli service has a CMD to fix #5241 ([#5245](https://github.com/cookiecutter/cookiecutter-django/pull/5245))
+
+### Fixed
+
+- Downgrade watchfiles ([#5243](https://github.com/cookiecutter/cookiecutter-django/pull/5243))
+
+## 2024.07.22
+
+
+### Updated
+
+- Update django-compressor to 4.5.1 ([#5240](https://github.com/cookiecutter/cookiecutter-django/pull/5240))
+
+## 2024.07.21
+
+
+### Updated
+
+- Update ruff to 0.5.4 ([#5237](https://github.com/cookiecutter/cookiecutter-django/pull/5237))
+
+- Update pytest to 8.3.1 ([#5236](https://github.com/cookiecutter/cookiecutter-django/pull/5236))
+
+- Update sphinx to 7.4.7 ([#5235](https://github.com/cookiecutter/cookiecutter-django/pull/5235))
+
+## 2024.07.20
+
+
+### Updated
+
+- Update hiredis to 3.0.0 ([#5228](https://github.com/cookiecutter/cookiecutter-django/pull/5228))
+
+- Update uvicorn to 0.30.3 ([#5234](https://github.com/cookiecutter/cookiecutter-django/pull/5234))
+
+- Update django-crispy-forms to 2.3 ([#5229](https://github.com/cookiecutter/cookiecutter-django/pull/5229))
+
+- Auto-update pre-commit hooks ([#5232](https://github.com/cookiecutter/cookiecutter-django/pull/5232))
+
+## 2024.07.19
+
+
+### Changed
+
+- Use &#34;ENV key=value&#34; instead of &#34;ENV key value&#34; in Dockerfiles ([#5225](https://github.com/cookiecutter/cookiecutter-django/pull/5225))
+
+### Updated
+
+- Update django-upgrade to 1.20.0 ([#5227](https://github.com/cookiecutter/cookiecutter-django/pull/5227))
+
+- Update ruff to 0.5.3 ([#5224](https://github.com/cookiecutter/cookiecutter-django/pull/5224))
+
+## 2024.07.18
+
+
+### Updated
+
+- Update sphinx to 7.4.6 ([#5223](https://github.com/cookiecutter/cookiecutter-django/pull/5223))
+
 ## 2024.07.17
 
 
